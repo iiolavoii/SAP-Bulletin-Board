@@ -118,7 +118,7 @@
 	"Contact": "hopOnTheTrain@gmail.com",
 	"Currency": "USD",
 	"Price": 61,
-	"Flagged": 0
+	"Flagged": true
   },
   {
 	"PostID": "PostID_12",
